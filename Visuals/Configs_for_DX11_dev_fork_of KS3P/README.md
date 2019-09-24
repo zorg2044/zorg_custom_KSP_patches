@@ -7,4 +7,4 @@ This is a fork on which DX11 shaders meant for KS3P v6 were developed on by Jrod
 
 It is also reccomended to use a sunlight boosting config to increase the contrast in the game for a more realistic hard light look in space. A patch for JNSQ is included here (it multiplies the sunlight intensity curve by 1.3x). The Lightfixer mod is an alternative for other planet packs or visual packs. Lightfixer does not use curves and just straight up multiplies the sunlight value. I dont know how it looks in practice.
 
-The KS3P config should go inside Gamedata/KSP and the Sunlight boost config can go anywhere (suggest a personal folder)
+The KS3P config should go inside Gamedata/KS3P and the Sunlight boost config can go anywhere (suggest a personal folder)
